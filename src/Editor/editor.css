@@ -1,0 +1,22 @@
+
+.test div{
+    background-color: red;
+}
+
+.test .w-md-editor-toolbar {
+    background-color: rgb(34, 219, 96);
+    border-radius: 10px;
+}
+
+.test .w-md-editor-toolbar  button {
+    border-radius: 10px;
+    background-color: rgb(119, 7, 141);
+}
+
+.test .w-md-editor-toolbar-divider{
+    background-color: blue;
+}
+
+.test .w-md-editor-text-input{
+    
+}
